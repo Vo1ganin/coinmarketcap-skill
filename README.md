@@ -1,4 +1,14 @@
-# CoinMarketCap Skill
+# CoinMarketCap — AI-agent skill
+
+> **Generated distribution mirror.** The canonical source, issues, and releases live in [https://github.com/Vo1ganin/crypto-claude-skills](https://github.com/Vo1ganin/crypto-claude-skills). Do not hand-edit generated files in this repository.
+
+AI-agent skill and Python examples for batched CoinMarketCap market-data API workflows.
+
+- Canonical skill: [https://github.com/Vo1ganin/crypto-claude-skills/tree/main/skills/coinmarketcap](https://github.com/Vo1ganin/crypto-claude-skills/tree/main/skills/coinmarketcap)
+- Collection: [https://github.com/Vo1ganin/crypto-claude-skills](https://github.com/Vo1ganin/crypto-claude-skills)
+- Provenance: [`.source.json`](.source.json)
+
+## Skill documentation
 
 Claude Code skill for the [CoinMarketCap Pro API](https://coinmarketcap.com/api/) — price quotes, OHLCV history, market caps, Fear & Greed Index, CMC100/CMC20 indices, exchange data, DEX data across 100+ chains, airdrops, trending, community sentiment.
 
@@ -73,10 +83,10 @@ set -a; source .env; set +a
 
 ## Related skills
 
-- [`dexscreener-skill`](../dexscreener) — free/no-auth DEX pair data (complements CMC's DEX endpoints)
-- [`dune-skill`](../dune) — historical blockchain SQL, deeper than CMC OHLCV
-- [`nansen-skill`](../nansen) — smart-money + wallet profiling (orthogonal use case)
-- [`solana-rpc-skill`](../solana-rpc) — direct Solana data
+- [`dexscreener-skill`](https://github.com/Vo1ganin/crypto-claude-skills/tree/main/skills/dexscreener) — free/no-auth DEX pair data (complements CMC's DEX endpoints)
+- [`dune-skill`](https://github.com/Vo1ganin/crypto-claude-skills/tree/main/skills/dune) — historical blockchain SQL, deeper than CMC OHLCV
+- [`nansen-skill`](https://github.com/Vo1ganin/crypto-claude-skills/tree/main/skills/nansen) — smart-money + wallet profiling (orthogonal use case)
+- [`solana-rpc-skill`](https://github.com/Vo1ganin/crypto-claude-skills/tree/main/skills/solana-rpc) — direct Solana data
 
 ## Sources
 

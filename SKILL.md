@@ -208,7 +208,7 @@ Use CMC for authoritative/historical/ranked data, DexScreener or chain-specific 
 
 ## Related skills
 
-- [`dexscreener-skill`](../dexscreener) — free/no-auth DEX pair data
-- [`dune-skill`](../dune) — historical SQL with deeper granularity than CMC OHLCV
-- [`solana-rpc-skill`](../solana-rpc) — on-chain Solana specifics
-- [`nansen-skill`](../nansen) — smart-money + wallet profiling (orthogonal to CMC)
+- [`dexscreener-skill`](https://github.com/Vo1ganin/crypto-claude-skills/tree/main/skills/dexscreener) — free/no-auth DEX pair data
+- [`dune-skill`](https://github.com/Vo1ganin/crypto-claude-skills/tree/main/skills/dune) — historical SQL with deeper granularity than CMC OHLCV
+- [`solana-rpc-skill`](https://github.com/Vo1ganin/crypto-claude-skills/tree/main/skills/solana-rpc) — on-chain Solana specifics
+- [`nansen-skill`](https://github.com/Vo1ganin/crypto-claude-skills/tree/main/skills/nansen) — smart-money + wallet profiling (orthogonal to CMC)

@@ -1,0 +1,10 @@
+{
+  "collection_version": "0.2.0",
+  "generated": true,
+  "mirror_repository": "https://github.com/Vo1ganin/coinmarketcap-skill",
+  "schema_version": 1,
+  "skill_id": "coinmarketcap",
+  "source_commit": "d313d4b57f8ef1f5d4a46fc2e1f6c10423fb1d4e",
+  "source_path": "skills/coinmarketcap",
+  "source_repository": "https://github.com/Vo1ganin/crypto-claude-skills"
+}
